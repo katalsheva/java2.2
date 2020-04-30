@@ -11,6 +11,7 @@
 1. Создать проект в IntelliJ IDEA.
 2. Копировать код приложения:
 
+```java
 public class Main {
   public static void main(String[] args) {
     double regularBonus = 0.3;
@@ -19,6 +20,7 @@ public class Main {
     System.out.println(totalBonus);
   }
 }
+```
 
 ## Результаты
 
